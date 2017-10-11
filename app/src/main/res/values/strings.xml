@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Orbis 1.0</string>
+    <string name="Month_info">MONTH</string>
+    <string name="Title_info">Title</string>
+    <string name="summ_info">Summary</string>
+    <string name="File_Name">FileName</string>
+    <string name="answer1">It is certain</string>
+    <string name="answer2">It is decidedly so</string>
+    <string name="answer3">Without a doubt</string>
+    <string name="answer4">Yes - definitely</string>
+    <string name="answer5">You may rely on it</string>
+    <string name="answer6">As I see it, yes</string>
+    <string name="answer7">Most likely</string>
+    <string name="answer8">Outlook good</string>
+    <string name="answer9">Yes</string>
+    <string name="answer10">Signs point to yes</string>
+    <string name="answer11">Reply hazy, try again</string>
+    <string name="answer12">Ask again later</string>
+    <string name="answer13">Better not tell you now</string>
+    <string name="answer14">Cannot predict now</string>
+    <string name="answer15">Concentrate and ask again</string>
+    <string name="answer16">Don\'t count on it</string>
+    <string name="answer17">My reply is no</string>
+    <string name="answer18">My sources say no</string>
+    <string name="answer19">Outlook not so good</string>
+    <string name="answer20">Very doubtful</string>
+    <string name="answer21">I don\'t think so</string>
+    <string name="answer22">Not in a hundred years</string>
+    <string name="answer23">Will never be so</string>
+    <string name="answer24">I don\'t think it\'s the god\'s will</string>
+    <string name="answer25">Doesn\'t seems like it</string>
+    <string name="answer26">"How will I know that</string>
+    <string name="Ranswer27">We shouldn\'t talk about such things</string>
+    <string name="Ranswer28">Fuck You....</string>
+    <string name="Ranswer29">Valar Doharis</string>
+
+</resources>

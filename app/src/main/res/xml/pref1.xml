@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference
+
+        android:key="pref_opt1"
+
+        android:title="Gym"
+
+        android:summary="Basic exercises and calorie burn"
+
+        />
+
+    <CheckBoxPreference
+
+        android:key="pref_opt2"
+
+        android:title="For GPA"
+
+        android:summary="Regular studies for sem 5" />
+
+    <CheckBoxPreference
+
+        android:key="pref_opt3"
+
+        android:title="Android"
+
+        android:summary="Learn android development" />
+
+    <CheckBoxPreference
+
+        android:key="pref_opt4"
+
+        android:title="Others"
+
+        android:summary="Coding,Cracking and other stuff" />
+    <CheckBoxPreference
+
+        android:key="pref_opt5"
+
+        android:title="Class Work"
+
+        android:summary="Paid good attention to lectures " />
+</PreferenceScreen>
